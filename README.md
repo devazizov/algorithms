@@ -12,7 +12,7 @@ This repository contains various algorithms implemented in Python. New algorithm
 
 ### 🏗 Sorting Algorithms
 - [Selection Sort](selection_sort.py)
-- [Quic Sort](quick_sort.py)
+- [Quick Sort](quick_sort.py)
 
 ### 🔢 Other Algorithms
 - *(Uploaded soon...)*
